@@ -1,0 +1,58 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Guitar",
+        "description": "A six-string acoustic guitar for beginners",
+        "price": 199.99,
+        "category": "Instruments",
+        "quantity": 0,
+        "image": "/catPlayingGuitar.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Piano",
+        "description": "A digital piano with weighted keys",
+        "price": 899.99,
+        "category": "Instruments",
+        "quantity": 0,
+        "image": "/RacoonPlayingPiano.webp"
+      },
+      {
+        "id": 3,
+        "title": "Drum Set",
+        "description": "A five-piece drum set with cymbals",
+        "price": 599.99,
+        "category": "Instruments",
+        "quantity": 0,
+        "image": "/BearPlayingDrums.jpeg"
+      },
+      {
+        "id": 4,
+        "title": "Headphones",
+        "description": "Over-ear studio headphones",
+        "price": 99.99,
+        "category": "Accessories",
+        "quantity": 0,
+        "image": "/dogWithHeadPhones.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Microphone",
+        "description": "Professional condenser microphone",
+        "price": 149.99,
+        "category": "Accessories",
+        "quantity": 0,
+        "image": "/MicroPhoneDog.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Sheet Music Book",
+        "description": "Collection of popular piano sheet music",
+        "price": 19.99,
+        "category": "Books",
+        "quantity": 0,
+        "image": "/catReadingMusic.jpg"
+      }
+    ]
+  }
